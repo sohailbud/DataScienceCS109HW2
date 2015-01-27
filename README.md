@@ -1,10 +1,5 @@
 # Data Science CS109 HW2:Desperately Seeking Silver
 
-<center>
-<img src="http://www.scribewise.com/Portals/202647/images/photo.jpg">
-</center>
-<br>
-
 In HW1, we explored how to make predictions (with uncertainties) about upcoming elections based on the Real Clear Politics poll. This assignment also focuses on election prediction, but we are going to implement and evaluate a number of more sophisticated forecasting techniques. 
 
 We are going to focus on the 2012 Presidential election. Analysts like Nate Silver, Drew Linzer, and Sam Wang developed highly accurate models that correctly forecasted most or all of the election outcomes in each of the 50 states. We will explore how hard it is to recreate similarly successful models. The goals of this assignment are:
